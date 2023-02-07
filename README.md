@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manish0045
-- 👀 I’m interested in Programming and web Development
+- 👀 I’m interested in Python Programming and web Development
 - 🌱 I’m currently learning New Technologies and frameworks like (React,React-Native,Django,Bootstrap)
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me from my LinkedIn profile
