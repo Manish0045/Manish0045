@@ -2,11 +2,10 @@
 <h1 align="center">Hi 👋, I'm Manish Sahani</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="center" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding" width="600"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish0045&label=Profile%20views&color=0e75b6&style=flat" alt="manish0045" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish0045" alt="manish0045" /></a> </p>
+<img align="center" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding" width="300"/>
 
 - 🌱 I’m currently learning **React,Express,MongoDB**
 
@@ -21,6 +20,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ymFKqD4GBVCjm-BWkRChMWIgsSUCKqZg/view?usp=share_link](https://drive.google.com/file/d/1ymFKqD4GBVCjm-BWkRChMWIgsSUCKqZg/view?usp=share_link)
 
 - ⚡ Fun fact **I think I am funny :) 😅**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish0045" alt="manish0045" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
