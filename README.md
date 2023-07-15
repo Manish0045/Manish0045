@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React,Express,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Manish0045?tab=repositories]([https://github.com/Manish0045?tab=repositories])
+- 👨‍💻 All of my projects are available at [https://github.com/Manish0045?tab=repositories](https://github.com/Manish0045?tab=repositories)
 
 - 📝 I write articles on [https://hashnode.com/@manish45](https://hashnode.com/@manish45)
 
