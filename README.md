@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **manishsahani345@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ymFKqD4GBVCjm-BWkRChMWIgsSUCKqZg/view?usp=share_link](https://drive.google.com/file/d/1ymFKqD4GBVCjm-BWkRChMWIgsSUCKqZg/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ymFKqD4GBVCjm-BWkRChMWIgsSUCKqZg/view?usp=share_link](https://drive.google.com/file/d/17wjQ_nzS7TD7LjMD0dUbtry32dOkvmv2/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny :) 😅**
 
