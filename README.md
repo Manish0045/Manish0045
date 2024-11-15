@@ -1,5 +1,5 @@
 ![logo](https://github.com/Manish0045/Manish0045/blob/main/MANISH%20SAHANI.png)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&background=FFEA3F0F&width=435&lines=I+am+a+Full+Stack+Developer;Contact+for+collaboration" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=F89922&background=FFEA3F0F&center=true&vCenter=true&width=450&lines=I+am+a+Full+Stack+Developer;Contact+for+collaboration" alt="Typing SVG" /></a>
 # 💫 About Me:
 🌱 I’m currently learning Flutter,Dart,Express,MongoDB<br><br>👨‍💻 All of my projects are available at https://github.com/Manish0045?tab=repositories<br><br>📝 I write articles on https://hashnode.com/@manish45<br><br>💬 Ask me about JavaScript,Python<br><br>📫 How to reach me manishsahani345@gmail.com<br><br>📄 Know about my experiences [MY_CV](https://drive.google.com/file/d/1xguSNpiuWGr0l_Yxj1fGEWxENZRVqwBx/view?usp=drive_link)<br><br>My Portolio - [PORTFOLIO](https://ms-portfolio-live.onrender.com) <br><br>⚡ Fun fact I think I am funny :) 😅
 
